@@ -1,6 +1,3 @@
-/**
- * Created by BontaPeter on 2016. 05. 19..
- */
 (function () {
     var button = document.querySelector(".eval");
     button.addEventListener("click", showResult);

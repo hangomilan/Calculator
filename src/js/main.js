@@ -1,7 +1,6 @@
 /**
- * Created by BontaPeter on 2016. 05. 19..
- */
 // Get all the keys from document
+ */
 (function() {
     var keys = document.querySelectorAll('#calculator span');
     var operators = ['+', '-', 'x', '÷'];
